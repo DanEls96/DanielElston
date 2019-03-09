@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="stilark.css">
+<title>Second Page</title>
+<h1>Second Page</h1>
+<p>
+	
+	<a href="index.html">Press here to view home page</a>
+</p>
+
+</body>
+</html>
